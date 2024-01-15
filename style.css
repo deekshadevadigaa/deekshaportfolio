@@ -19,7 +19,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(new22.png);
+  background: url(new22.png)no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
