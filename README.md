@@ -1,8 +1,8 @@
 Welcome to my portfolio! This repository contains the files for my personal portfolio website, showcasing my skills, projects, and experiences.
 
 Screenshots:
-![Homepage](path/to/screenshot1.png)
-![Projects Page](path/to/screenshot2.png)
+![Homepage]()
+![Projects Page](ProjectPage.png)
 
 Live Demo :
 - You can view my portfolio online at: https://deekshadevadigaa.github.io/deekshaportfolio/
