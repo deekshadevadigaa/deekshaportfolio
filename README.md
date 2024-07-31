@@ -19,10 +19,11 @@ Libraries and Frameworks Used :
    - Version: 5.15.2
    - CDN: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css
    - Usage: Icons such as fas fa-angle-up, fas fa-paint-brush, etc.
+   - 
 2. CSS Stylesheet:
    - Local Stylesheet: style.css
    - Purpose: Custom styling for the website.
-     
+   - 
 Features of my portfolio:
 1. Navigation Bar Effects:
    - Sticky Header: The header sticks to the top of the page when you scroll.
@@ -32,11 +33,10 @@ Features of my portfolio:
 3. Element Reveal on Scroll:
    - Effect: Elements with the class .reveal become visible as the user scrolls.
 4. Interactive Sections:
-
-Skills Section: Cards that link to external pages or resources related to different skills.
-Projects Section: Displays your projects with links to GitHub repositories and a video demo.
-Certifications Section: Showcases various certifications with images and descriptions.
-Contact Section: Provides links to various contact methods, including email, social media, and more.
+   - Skills Section: Cards that link to external pages or resources related to different skills.
+   - Projects Section: Displays your projects with links to GitHub repositories and a video demo.
+   - Certifications Section: Showcases various certifications with images and descriptions.
+   - Contact Section: Provides links to various contact methods, including email, social media, and more.
   
 Technologies Used :
 - HTML5: For structuring the content of the portfolio.
