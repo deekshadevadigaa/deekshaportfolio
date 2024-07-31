@@ -1,7 +1,7 @@
 Welcome to my portfolio! This repository contains the files for my personal portfolio website, showcasing my skills, projects, and experiences.
 
 Screenshots:
-![Homepage]()
+![Homepage](HomePage.png)
 ![Projects Page](ProjectPage.png)
 
 Live Demo :
