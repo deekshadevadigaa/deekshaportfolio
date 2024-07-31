@@ -1,4 +1,5 @@
-Welcome to my portfolio! This repository contains the files for my personal portfolio website, showcasing my skills, projects, and experiences.
+Welcome to my portfolio! 
+- This repository contains the files for my personal portfolio website, showcasing my skills, projects, and experiences.
 
 Screenshots:
 ![Homepage](HomePage.png)
